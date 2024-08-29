@@ -20,3 +20,16 @@ This project is an interactive Welcome Page designed with a sleek, modern interf
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/yourusername/interactive-welcome-page.git
+
+## Example Use
+
+Click the "Get Started" button on the welcome page to be redirected to the main application. This welcome page is designed to set the stage for users as they begin their journey.
+
+## Requirements
+
+Web Browser: Any modern web browser can run the welcome page.
+
+## Credits
+
+Logo Animation: The logo animation is powered by Lottie, providing a smooth and engaging experience for users.
+Particle Background: The interactive particle effect is created using vanilla JavaScript and HTML5 Canvas.
