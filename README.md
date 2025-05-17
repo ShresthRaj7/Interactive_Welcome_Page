@@ -3,7 +3,7 @@
 This project is an interactive Welcome Page designed with a sleek, modern interface using HTML, CSS, and JavaScript, providing users with a welcoming experience before they dive into further features.
 
 ## 🌐 Live Demo  
-[Click here to view the live project](https://hizmnw2dtqeu4zbvzwvioa.on.drv.tw/www.insightforge.com/home.html)
+[Click here to view the live project](https://hizmnw2dtqeu4zbvzwvioa.on.drv.tw/www.welcomepage.com/)
 
 ## ✨ Features
 
